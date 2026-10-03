@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3e3f237c0e.akeol.cn/sitemap.xml
